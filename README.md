@@ -1,1 +1,1 @@
-# riftbreaker-docs
+# Posts
